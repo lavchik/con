@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first{
+    color: rgb(0, 0, 0);
+font-family: "Inter";
+font-size: 88px;
+font-weight: 500;
+line-height: 93px;
+text-align: center;
+display: flex;
+}
+img{
+margin-top: 300px;
+}
+.ota{
+text-align: center;
+}
